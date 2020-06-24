@@ -1,7 +1,7 @@
 [
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 6,
@@ -9,7 +9,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 6,
         "Count": 4,
@@ -17,7 +17,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 18,
@@ -25,7 +25,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 113,
@@ -33,7 +33,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 6,
         "Count": 12,
@@ -41,7 +41,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 2,
         "Time": 6,
         "Count": 3,
@@ -49,7 +49,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 138,
@@ -57,7 +57,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 37,
@@ -65,7 +65,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 6,
         "Count": 2,
@@ -73,7 +73,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 12,
@@ -81,7 +81,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 4,
@@ -89,7 +89,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 19,
@@ -97,7 +97,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 42,
@@ -105,7 +105,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 6,
         "Count": 1,
@@ -113,7 +113,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 10,
@@ -121,7 +121,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 7,
         "Count": 6,
@@ -129,7 +129,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 54,
@@ -137,7 +137,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 152,
@@ -145,7 +145,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 7,
         "Count": 8,
@@ -153,7 +153,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 173,
@@ -161,7 +161,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 7,
         "Count": 2,
@@ -169,7 +169,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 137,
@@ -177,7 +177,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 3,
@@ -185,7 +185,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 37,
@@ -193,7 +193,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 4,
@@ -201,7 +201,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 15,
@@ -209,7 +209,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 115,
@@ -217,7 +217,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 3,
@@ -225,7 +225,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 205,
@@ -233,7 +233,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 7,
@@ -241,7 +241,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 4,
@@ -249,7 +249,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 8,
         "Count": 1,
@@ -257,7 +257,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 26,
@@ -265,7 +265,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 8,
         "Count": 15,
@@ -273,7 +273,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 95,
@@ -281,7 +281,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 146,
@@ -289,7 +289,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 8,
         "Count": 5,
@@ -297,7 +297,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 133,
@@ -305,7 +305,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 8,
         "Count": 2,
@@ -313,7 +313,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 245,
@@ -321,7 +321,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 15,
@@ -329,7 +329,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 125,
@@ -337,7 +337,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 6,
@@ -345,7 +345,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 43,
@@ -353,7 +353,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 2,
@@ -361,7 +361,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 307,
@@ -369,7 +369,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 9,
@@ -377,7 +377,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 468,
@@ -385,7 +385,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 13,
@@ -393,7 +393,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 4,
@@ -401,7 +401,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 8,
@@ -409,7 +409,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 36,
@@ -417,7 +417,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 9,
         "Count": 10,
@@ -425,7 +425,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 2,
         "Time": 9,
         "Count": 1,
@@ -433,7 +433,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 61,
@@ -441,7 +441,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 131,
@@ -449,7 +449,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 9,
         "Count": 9,
@@ -457,7 +457,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 168,
@@ -465,7 +465,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 9,
         "Count": 1,
@@ -473,7 +473,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 275,
@@ -481,7 +481,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 9,
@@ -489,7 +489,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 114,
@@ -497,7 +497,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 8,
@@ -505,7 +505,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 35,
@@ -513,7 +513,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 1,
@@ -521,7 +521,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 224,
@@ -529,7 +529,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 6,
@@ -537,7 +537,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 281,
@@ -545,7 +545,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 7,
@@ -553,7 +553,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 10,
         "Count": 1,
@@ -561,7 +561,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 25,
@@ -569,7 +569,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 10,
         "Count": 14,
@@ -577,7 +577,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 97,
@@ -585,7 +585,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 10,
         "Count": 1,
@@ -593,7 +593,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 167,
@@ -601,7 +601,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 10,
         "Count": 19,
@@ -609,7 +609,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 2,
         "Time": 10,
         "Count": 1,
@@ -617,7 +617,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 182,
@@ -625,7 +625,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 267,
@@ -633,7 +633,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 12,
@@ -641,7 +641,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 126,
@@ -649,7 +649,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 3,
@@ -657,7 +657,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 34,
@@ -665,7 +665,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 2,
@@ -673,7 +673,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 230,
@@ -681,7 +681,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 10,
@@ -689,7 +689,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 341,
@@ -697,7 +697,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 25,
@@ -705,7 +705,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 20,
@@ -713,7 +713,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 11,
         "Count": 6,
@@ -721,7 +721,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 2,
         "Time": 11,
         "Count": 1,
@@ -729,7 +729,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 98,
@@ -737,7 +737,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 11,
         "Count": 1,
@@ -745,7 +745,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 211,
@@ -753,7 +753,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 11,
         "Count": 23,
@@ -761,7 +761,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 249,
@@ -769,7 +769,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 241,
@@ -777,7 +777,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 11,
@@ -785,7 +785,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 109,
@@ -793,7 +793,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 12,
@@ -801,7 +801,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 31,
@@ -809,7 +809,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 1,
@@ -817,7 +817,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 217,
@@ -825,7 +825,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 25,
@@ -833,7 +833,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 362,
@@ -841,7 +841,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 34,
@@ -849,7 +849,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 4,
@@ -857,7 +857,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 15,
@@ -865,7 +865,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 12,
         "Count": 8,
@@ -873,7 +873,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 2,
         "Time": 12,
         "Count": 1,
@@ -881,7 +881,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 96,
@@ -889,7 +889,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 202,
@@ -897,7 +897,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 12,
         "Count": 21,
@@ -905,7 +905,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 2,
         "Time": 12,
         "Count": 1,
@@ -913,7 +913,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 255,
@@ -921,7 +921,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 280,
@@ -929,7 +929,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 21,
@@ -937,7 +937,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 105,
@@ -945,7 +945,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 4,
@@ -953,7 +953,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 19,
@@ -961,7 +961,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 230,
@@ -969,7 +969,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 12,
@@ -977,7 +977,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 386,
@@ -985,7 +985,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 32,
@@ -993,7 +993,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 2,
@@ -1001,7 +1001,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 31,
@@ -1009,7 +1009,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 13,
         "Count": 4,
@@ -1017,7 +1017,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 74,
@@ -1025,7 +1025,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 193,
@@ -1033,7 +1033,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 13,
         "Count": 27,
@@ -1041,7 +1041,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 2,
         "Time": 13,
         "Count": 1,
@@ -1049,7 +1049,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 219,
@@ -1057,7 +1057,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 1,
@@ -1065,7 +1065,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 13,
         "Count": 1,
@@ -1073,7 +1073,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 269,
@@ -1081,7 +1081,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 7,
@@ -1089,7 +1089,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 136,
@@ -1097,7 +1097,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 12,
@@ -1105,7 +1105,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 18,
@@ -1113,7 +1113,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 244,
@@ -1121,7 +1121,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 8,
@@ -1129,7 +1129,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 336,
@@ -1137,7 +1137,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 20,
@@ -1145,7 +1145,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 1,
@@ -1153,7 +1153,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 22,
@@ -1161,7 +1161,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 14,
         "Count": 7,
@@ -1169,7 +1169,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 85,
@@ -1177,7 +1177,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 238,
@@ -1185,7 +1185,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 14,
         "Count": 1,
@@ -1193,7 +1193,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 14,
         "Count": 18,
@@ -1201,7 +1201,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 2,
         "Time": 14,
         "Count": 1,
@@ -1209,7 +1209,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 238,
@@ -1217,7 +1217,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 14,
         "Count": 3,
@@ -1225,7 +1225,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 206,
@@ -1233,7 +1233,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 22,
@@ -1241,7 +1241,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 103,
@@ -1249,7 +1249,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 18,
@@ -1257,7 +1257,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 6,
@@ -1265,7 +1265,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 262,
@@ -1273,7 +1273,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 16,
@@ -1281,7 +1281,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 373,
@@ -1289,7 +1289,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 35,
@@ -1297,7 +1297,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 2,
@@ -1305,7 +1305,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 17,
@@ -1313,7 +1313,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 15,
         "Count": 3,
@@ -1321,7 +1321,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 93,
@@ -1329,7 +1329,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 15,
         "Count": 1,
@@ -1337,7 +1337,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 170,
@@ -1345,7 +1345,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 15,
         "Count": 10,
@@ -1353,7 +1353,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 146,
@@ -1361,7 +1361,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 15,
         "Count": 2,
@@ -1369,7 +1369,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 331,
@@ -1377,7 +1377,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 20,
@@ -1385,7 +1385,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 107,
@@ -1393,7 +1393,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 10,
@@ -1401,7 +1401,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 18,
@@ -1409,7 +1409,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 2,
@@ -1417,7 +1417,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 221,
@@ -1425,7 +1425,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 16,
@@ -1433,7 +1433,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 684,
@@ -1441,7 +1441,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 22,
@@ -1449,7 +1449,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 1,
@@ -1457,7 +1457,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 16,
         "Count": 1,
@@ -1465,7 +1465,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 17,
@@ -1473,7 +1473,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 16,
         "Count": 21,
@@ -1481,7 +1481,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 2,
         "Time": 16,
         "Count": 2,
@@ -1489,7 +1489,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 98,
@@ -1497,7 +1497,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 282,
@@ -1505,7 +1505,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 16,
         "Count": 4,
@@ -1513,7 +1513,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 80,
@@ -1521,7 +1521,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 16,
         "Count": 3,
@@ -1529,7 +1529,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 327,
@@ -1537,7 +1537,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 15,
@@ -1545,7 +1545,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 133,
@@ -1553,7 +1553,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 14,
@@ -1561,7 +1561,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 24,
@@ -1569,7 +1569,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 1,
@@ -1577,7 +1577,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 275,
@@ -1585,7 +1585,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 35,
@@ -1593,7 +1593,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 519,
@@ -1601,7 +1601,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 37,
@@ -1609,7 +1609,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 2,
@@ -1617,7 +1617,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 17,
         "Count": 2,
@@ -1625,7 +1625,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 13,
@@ -1633,7 +1633,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 17,
         "Count": 8,
@@ -1641,7 +1641,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 84,
@@ -1649,7 +1649,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 17,
         "Count": 1,
@@ -1657,7 +1657,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 213,
@@ -1665,7 +1665,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 17,
         "Count": 2,
@@ -1673,7 +1673,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 76,
@@ -1681,7 +1681,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 276,
@@ -1689,7 +1689,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 18,
@@ -1697,7 +1697,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 131,
@@ -1705,7 +1705,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 8,
@@ -1713,7 +1713,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 5,
@@ -1721,7 +1721,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 234,
@@ -1729,7 +1729,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 19,
@@ -1737,7 +1737,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 376,
@@ -1745,7 +1745,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 34,
@@ -1753,7 +1753,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 7,
@@ -1761,7 +1761,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 6,
         "Count": 5,
@@ -1769,7 +1769,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 33,
@@ -1777,7 +1777,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 122,
@@ -1785,7 +1785,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 6,
         "Count": 19,
@@ -1793,7 +1793,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 6,
         "Count": 147,
@@ -1801,7 +1801,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 23,
@@ -1809,7 +1809,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 6,
         "Count": 4,
@@ -1817,7 +1817,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 16,
@@ -1825,7 +1825,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 6,
         "Count": 2,
@@ -1833,7 +1833,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 3,
@@ -1841,7 +1841,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 13,
@@ -1849,7 +1849,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 6,
         "Count": 1,
@@ -1857,7 +1857,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 32,
@@ -1865,7 +1865,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 6,
         "Count": 6,
@@ -1873,7 +1873,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 6,
         "Count": 1,
@@ -1881,7 +1881,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 9,
@@ -1889,7 +1889,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 7,
         "Count": 7,
@@ -1897,7 +1897,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 68,
@@ -1905,7 +1905,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 105,
@@ -1913,7 +1913,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 7,
         "Count": 13,
@@ -1921,7 +1921,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 2,
         "Time": 7,
         "Count": 1,
@@ -1929,7 +1929,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 7,
         "Count": 162,
@@ -1937,7 +1937,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 142,
@@ -1945,7 +1945,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 3,
@@ -1953,7 +1953,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 59,
@@ -1961,7 +1961,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 21,
@@ -1969,7 +1969,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 109,
@@ -1977,7 +1977,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 4,
@@ -1985,7 +1985,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 7,
         "Count": 223,
@@ -1993,7 +1993,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 7,
         "Count": 11,
@@ -2001,7 +2001,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 23,
@@ -2009,7 +2009,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 8,
         "Count": 15,
@@ -2017,7 +2017,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 92,
@@ -2025,7 +2025,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 8,
         "Count": 2,
@@ -2033,7 +2033,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 129,
@@ -2041,7 +2041,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 8,
         "Count": 11,
@@ -2049,7 +2049,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 2,
         "Time": 8,
         "Count": 1,
@@ -2057,7 +2057,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 8,
         "Count": 143,
@@ -2065,7 +2065,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 247,
@@ -2073,7 +2073,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 6,
@@ -2081,7 +2081,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 135,
@@ -2089,7 +2089,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 5,
@@ -2097,7 +2097,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 50,
@@ -2105,7 +2105,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 3,
@@ -2113,7 +2113,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 307,
@@ -2121,7 +2121,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 21,
@@ -2129,7 +2129,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 391,
@@ -2137,7 +2137,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 8,
         "Count": 17,
@@ -2145,7 +2145,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 8,
         "Count": 4,
@@ -2153,7 +2153,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 17,
@@ -2161,7 +2161,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 9,
         "Count": 12,
@@ -2169,7 +2169,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 100,
@@ -2177,7 +2177,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 135,
@@ -2185,7 +2185,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 9,
         "Count": 19,
@@ -2193,7 +2193,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 2,
         "Time": 9,
         "Count": 1,
@@ -2201,7 +2201,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 9,
         "Count": 204,
@@ -2209,7 +2209,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 264,
@@ -2217,7 +2217,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 6,
@@ -2225,7 +2225,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 103,
@@ -2233,7 +2233,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 11,
@@ -2241,7 +2241,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 42,
@@ -2249,7 +2249,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 3,
@@ -2257,7 +2257,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 183,
@@ -2265,7 +2265,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 9,
@@ -2273,7 +2273,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 9,
         "Count": 281,
@@ -2281,7 +2281,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 9,
         "Count": 11,
@@ -2289,7 +2289,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 9,
@@ -2297,7 +2297,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 10,
         "Count": 13,
@@ -2305,7 +2305,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 92,
@@ -2313,7 +2313,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 164,
@@ -2321,7 +2321,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 10,
         "Count": 16,
@@ -2329,7 +2329,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 2,
         "Time": 10,
         "Count": 1,
@@ -2337,7 +2337,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 10,
         "Count": 247,
@@ -2345,7 +2345,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 10,
         "Count": 2,
@@ -2353,7 +2353,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 288,
@@ -2361,7 +2361,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 3,
@@ -2369,7 +2369,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 133,
@@ -2377,7 +2377,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 12,
@@ -2385,7 +2385,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 38,
@@ -2393,7 +2393,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 253,
@@ -2401,7 +2401,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 7,
@@ -2409,7 +2409,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 396,
@@ -2417,7 +2417,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 10,
         "Count": 13,
@@ -2425,7 +2425,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 10,
         "Count": 2,
@@ -2433,7 +2433,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 11,
         "Count": 1,
@@ -2441,7 +2441,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 19,
@@ -2449,7 +2449,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 11,
         "Count": 14,
@@ -2457,7 +2457,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 93,
@@ -2465,7 +2465,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 11,
         "Count": 1,
@@ -2473,7 +2473,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 142,
@@ -2481,7 +2481,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 6,
         "Time": 11,
         "Count": 1,
@@ -2489,7 +2489,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 11,
         "Count": 17,
@@ -2497,7 +2497,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 2,
         "Time": 11,
         "Count": 2,
@@ -2505,7 +2505,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 11,
         "Count": 182,
@@ -2513,7 +2513,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 11,
         "Count": 1,
@@ -2521,7 +2521,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 266,
@@ -2529,7 +2529,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 10,
@@ -2537,7 +2537,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 98,
@@ -2545,7 +2545,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 7,
@@ -2553,7 +2553,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 23,
@@ -2561,7 +2561,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 4,
@@ -2569,7 +2569,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 182,
@@ -2577,7 +2577,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 9,
@@ -2585,7 +2585,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 11,
         "Count": 286,
@@ -2593,7 +2593,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 11,
         "Count": 10,
@@ -2601,7 +2601,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 21,
@@ -2609,7 +2609,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 12,
         "Count": 9,
@@ -2617,7 +2617,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 93,
@@ -2625,7 +2625,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 12,
         "Count": 1,
@@ -2633,7 +2633,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 12,
         "Count": 1,
@@ -2641,7 +2641,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 220,
@@ -2649,7 +2649,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 12,
         "Count": 15,
@@ -2657,7 +2657,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 12,
         "Count": 296,
@@ -2665,7 +2665,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 12,
         "Count": 1,
@@ -2673,7 +2673,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 354,
@@ -2681,7 +2681,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 10,
@@ -2689,7 +2689,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 129,
@@ -2697,7 +2697,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 8,
@@ -2705,7 +2705,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 35,
@@ -2713,7 +2713,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 2,
@@ -2721,7 +2721,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 246,
@@ -2729,7 +2729,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 9,
@@ -2737,7 +2737,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 443,
@@ -2745,7 +2745,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 12,
         "Count": 23,
@@ -2753,7 +2753,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 12,
         "Count": 2,
@@ -2761,7 +2761,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 2,
         "Time": 13,
         "Count": 1,
@@ -2769,7 +2769,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 28,
@@ -2777,7 +2777,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 13,
         "Count": 8,
@@ -2785,7 +2785,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 85,
@@ -2793,7 +2793,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 13,
         "Count": 1,
@@ -2801,7 +2801,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 233,
@@ -2809,7 +2809,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 13,
         "Count": 31,
@@ -2817,7 +2817,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 13,
         "Count": 287,
@@ -2825,7 +2825,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 13,
         "Count": 3,
@@ -2833,7 +2833,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 272,
@@ -2841,7 +2841,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 21,
@@ -2849,7 +2849,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 134,
@@ -2857,7 +2857,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 17,
@@ -2865,7 +2865,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 26,
@@ -2873,7 +2873,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 1,
@@ -2881,7 +2881,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 305,
@@ -2889,7 +2889,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 15,
@@ -2897,7 +2897,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 411,
@@ -2905,7 +2905,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 26,
@@ -2913,7 +2913,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 13,
         "Count": 4,
@@ -2921,7 +2921,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 13,
         "Count": 4,
@@ -2929,7 +2929,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 22,
@@ -2937,7 +2937,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 14,
         "Count": 8,
@@ -2945,7 +2945,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 92,
@@ -2953,7 +2953,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 263,
@@ -2961,7 +2961,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 14,
         "Count": 25,
@@ -2969,7 +2969,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 14,
         "Count": 238,
@@ -2977,7 +2977,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 14,
         "Count": 1,
@@ -2985,7 +2985,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 284,
@@ -2993,7 +2993,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 9,
@@ -3001,7 +3001,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 81,
@@ -3009,7 +3009,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 20,
@@ -3017,7 +3017,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 13,
@@ -3025,7 +3025,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 1,
@@ -3033,7 +3033,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 238,
@@ -3041,7 +3041,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 16,
@@ -3049,7 +3049,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 429,
@@ -3057,7 +3057,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 14,
         "Count": 14,
@@ -3065,7 +3065,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 14,
         "Count": 1,
@@ -3073,7 +3073,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 12,
@@ -3081,7 +3081,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 15,
         "Count": 8,
@@ -3089,7 +3089,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 2,
         "Time": 15,
         "Count": 2,
@@ -3097,7 +3097,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 104,
@@ -3105,7 +3105,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 193,
@@ -3113,7 +3113,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 15,
         "Count": 12,
@@ -3121,7 +3121,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 15,
         "Count": 170,
@@ -3129,7 +3129,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 15,
         "Count": 1,
@@ -3137,7 +3137,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 372,
@@ -3145,7 +3145,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 5,
@@ -3153,7 +3153,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 113,
@@ -3161,7 +3161,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 7,
@@ -3169,7 +3169,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 19,
@@ -3177,7 +3177,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 254,
@@ -3185,7 +3185,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 14,
@@ -3193,7 +3193,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 831,
@@ -3201,7 +3201,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 28,
@@ -3209,7 +3209,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 15,
         "Count": 2,
@@ -3217,7 +3217,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 15,
         "Count": 1,
@@ -3225,7 +3225,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 16,
         "Count": 3,
@@ -3233,7 +3233,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 27,
@@ -3241,7 +3241,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 16,
         "Count": 18,
@@ -3249,7 +3249,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 101,
@@ -3257,7 +3257,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 6,
         "Time": 16,
         "Count": 1,
@@ -3265,7 +3265,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 224,
@@ -3273,7 +3273,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 1,
         "Time": 16,
         "Count": 9,
@@ -3281,7 +3281,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 16,
         "Count": 125,
@@ -3289,7 +3289,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 16,
         "Count": 1,
@@ -3297,7 +3297,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 265,
@@ -3305,7 +3305,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 15,
@@ -3313,7 +3313,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 107,
@@ -3321,7 +3321,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 4,
@@ -3329,7 +3329,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 27,
@@ -3337,7 +3337,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 2,
@@ -3345,7 +3345,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 262,
@@ -3353,7 +3353,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 29,
@@ -3361,7 +3361,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 392,
@@ -3369,7 +3369,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 34,
@@ -3377,7 +3377,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 16,
         "Count": 2,
@@ -3385,7 +3385,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 16,
         "Count": 4,
@@ -3393,7 +3393,7 @@
     },
     {
         "StreetDirectionId": 2,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 14,
@@ -3401,7 +3401,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 1,
         "Time": 17,
         "Count": 11,
@@ -3409,7 +3409,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 105,
@@ -3417,7 +3417,7 @@
     },
     {
         "StreetDirectionId": 5,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 17,
         "Count": 2,
@@ -3425,7 +3425,7 @@
     },
     {
         "StreetDirectionId": 7,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 205,
@@ -3433,7 +3433,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 1,
         "Time": 17,
         "Count": 13,
@@ -3441,7 +3441,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 3,
         "Time": 17,
         "Count": 166,
@@ -3449,7 +3449,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 1,
@@ -3457,7 +3457,7 @@
     },
     {
         "StreetDirectionId": 9,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 6,
         "Time": 17,
         "Count": 1,
@@ -3465,7 +3465,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 241,
@@ -3473,7 +3473,7 @@
     },
     {
         "StreetDirectionId": 10,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 16,
@@ -3481,7 +3481,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 96,
@@ -3489,7 +3489,7 @@
     },
     {
         "StreetDirectionId": 11,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 2,
@@ -3497,7 +3497,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 30,
@@ -3505,7 +3505,7 @@
     },
     {
         "StreetDirectionId": 12,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 2,
@@ -3513,7 +3513,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 242,
@@ -3521,7 +3521,7 @@
     },
     {
         "StreetDirectionId": 13,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 22,
@@ -3529,7 +3529,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 2,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 356,
@@ -3537,7 +3537,7 @@
     },
     {
         "StreetDirectionId": 14,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 1,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 26,
@@ -3545,7 +3545,7 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 4,
         "Time": 17,
         "Count": 1,
@@ -3553,7 +3553,3567 @@
     },
     {
         "StreetDirectionId": 15,
-        "LaneDirectionId": 0,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 4,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 6,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 6,
+        "Count": 4,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 18,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 113,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 6,
+        "Count": 12,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 2,
+        "Time": 6,
+        "Count": 3,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 138,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 37,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 6,
+        "Count": 2,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 12,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 4,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 19,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 42,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 6,
+        "Count": 1,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 10,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 7,
+        "Count": 6,
+        "AvgSpeed": 13
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 54,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 152,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 7,
+        "Count": 8,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 173,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 7,
+        "Count": 2,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 137,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 37,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 4,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 15,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 115,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 205,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 7,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 4,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 8,
+        "Count": 1,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 26,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 8,
+        "Count": 15,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 95,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 146,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 8,
+        "Count": 5,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 133,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 8,
+        "Count": 2,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 245,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 15,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 125,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 6,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 43,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 2,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 307,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 9,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 468,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 13,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 4,
+        "AvgSpeed": 13
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 8,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 36,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 9,
+        "Count": 10,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 2,
+        "Time": 9,
+        "Count": 1,
+        "AvgSpeed": 13
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 61,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 131,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 9,
+        "Count": 9,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 168,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 9,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 275,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 9,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 114,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 8,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 35,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 1,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 224,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 6,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 281,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 7,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 10,
+        "Count": 1,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 25,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 10,
+        "Count": 14,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 97,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 10,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 167,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 10,
+        "Count": 19,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 2,
+        "Time": 10,
+        "Count": 1,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 182,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 267,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 12,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 126,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 34,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 2,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 230,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 10,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 341,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 25,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 20,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 11,
+        "Count": 6,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 2,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 98,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 211,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 11,
+        "Count": 23,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 249,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 241,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 11,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 109,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 12,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 31,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 217,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 25,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 362,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 34,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 4,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 15,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 12,
+        "Count": 8,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 2,
+        "Time": 12,
+        "Count": 1,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 96,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 202,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 12,
+        "Count": 21,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 2,
+        "Time": 12,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 255,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 280,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 21,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 105,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 4,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 19,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 230,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 12,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 386,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 32,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 2,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 31,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 13,
+        "Count": 4,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 74,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 193,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 13,
+        "Count": 27,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 2,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 219,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 269,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 7,
+        "AvgSpeed": 0
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 136,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 12,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 18,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 244,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 8,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 336,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 20,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 22,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 14,
+        "Count": 7,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 85,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 238,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 14,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 14,
+        "Count": 18,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 2,
+        "Time": 14,
+        "Count": 1,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 238,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 14,
+        "Count": 3,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 206,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 22,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 103,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 18,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 6,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 262,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 16,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 373,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 35,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 2,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 17,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 15,
+        "Count": 3,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 93,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 15,
+        "Count": 1,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 170,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 15,
+        "Count": 10,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 146,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 15,
+        "Count": 2,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 331,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 20,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 107,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 10,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 18,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 2,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 221,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 16,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 684,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 22,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 1,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 16,
+        "Count": 1,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 17,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 16,
+        "Count": 21,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 2,
+        "Time": 16,
+        "Count": 2,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 98,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 282,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 16,
+        "Count": 4,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 80,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 16,
+        "Count": 3,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 327,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 15,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 133,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 14,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 24,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 1,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 275,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 35,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 519,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 37,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 2,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 17,
+        "Count": 2,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 13,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 17,
+        "Count": 8,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 84,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 17,
+        "Count": 1,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 213,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 17,
+        "Count": 2,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 76,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 276,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 18,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 131,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 8,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 5,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 234,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 19,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 376,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 34,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 7,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 6,
+        "Count": 5,
+        "AvgSpeed": 13
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 33,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 122,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 6,
+        "Count": 19,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 6,
+        "Count": 147,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 23,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 6,
+        "Count": 4,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 16,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 6,
+        "Count": 2,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 13,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 6,
+        "Count": 1,
+        "AvgSpeed": 0
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 32,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 6,
+        "Count": 6,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 6,
+        "Count": 1,
+        "AvgSpeed": 22
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 9,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 7,
+        "Count": 7,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 68,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 105,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 7,
+        "Count": 13,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 2,
+        "Time": 7,
+        "Count": 1,
+        "AvgSpeed": 13
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 7,
+        "Count": 162,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 142,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 59,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 21,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 109,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 4,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 7,
+        "Count": 223,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 7,
+        "Count": 11,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 23,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 8,
+        "Count": 15,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 92,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 8,
+        "Count": 2,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 129,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 8,
+        "Count": 11,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 2,
+        "Time": 8,
+        "Count": 1,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 8,
+        "Count": 143,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 247,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 6,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 135,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 5,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 50,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 307,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 21,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 391,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 8,
+        "Count": 17,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 8,
+        "Count": 4,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 17,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 9,
+        "Count": 12,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 100,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 135,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 9,
+        "Count": 19,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 2,
+        "Time": 9,
+        "Count": 1,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 9,
+        "Count": 204,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 264,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 6,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 103,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 11,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 42,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 183,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 9,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 9,
+        "Count": 281,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 9,
+        "Count": 11,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 9,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 10,
+        "Count": 13,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 92,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 164,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 10,
+        "Count": 16,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 2,
+        "Time": 10,
+        "Count": 1,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 10,
+        "Count": 247,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 10,
+        "Count": 2,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 288,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 3,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 133,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 12,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 38,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 253,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 7,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 396,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 10,
+        "Count": 13,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 10,
+        "Count": 2,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 19,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 11,
+        "Count": 14,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 93,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 142,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 6,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 11,
+        "Count": 17,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 2,
+        "Time": 11,
+        "Count": 2,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 11,
+        "Count": 182,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 11,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 266,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 10,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 98,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 7,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 23,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 4,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 182,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 9,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 11,
+        "Count": 286,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 11,
+        "Count": 10,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 21,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 12,
+        "Count": 9,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 93,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 12,
+        "Count": 1,
+        "AvgSpeed": 12
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 12,
+        "Count": 1,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 220,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 12,
+        "Count": 15,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 12,
+        "Count": 296,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 12,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 354,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 10,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 129,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 8,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 35,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 2,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 246,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 9,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 443,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 12,
+        "Count": 23,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 12,
+        "Count": 2,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 2,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 28,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 13,
+        "Count": 8,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 85,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 233,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 13,
+        "Count": 31,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 13,
+        "Count": 287,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 13,
+        "Count": 3,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 272,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 21,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 134,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 17,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 26,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 1,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 305,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 15,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 411,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 26,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 13,
+        "Count": 4,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 13,
+        "Count": 4,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 22,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 14,
+        "Count": 8,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 92,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 263,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 14,
+        "Count": 25,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 14,
+        "Count": 238,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 14,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 284,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 9,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 81,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 20,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 13,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 1,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 238,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 16,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 429,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 14,
+        "Count": 14,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 14,
+        "Count": 1,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 12,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 15,
+        "Count": 8,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 2,
+        "Time": 15,
+        "Count": 2,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 104,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 193,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 15,
+        "Count": 12,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 15,
+        "Count": 170,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 15,
+        "Count": 1,
+        "AvgSpeed": 13
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 372,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 5,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 113,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 7,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 19,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 254,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 14,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 831,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 28,
+        "AvgSpeed": 4
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 15,
+        "Count": 2,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 15,
+        "Count": 1,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 16,
+        "Count": 3,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 27,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 16,
+        "Count": 18,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 101,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 6,
+        "Time": 16,
+        "Count": 1,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 224,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 1,
+        "Time": 16,
+        "Count": 9,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 16,
+        "Count": 125,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 16,
+        "Count": 1,
+        "AvgSpeed": 8
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 265,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 15,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 107,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 4,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 27,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 2,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 262,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 29,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 392,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 34,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 16,
+        "Count": 2,
+        "AvgSpeed": 11
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 16,
+        "Count": 4,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 2,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 14,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 1,
+        "Time": 17,
+        "Count": 11,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 105,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 5,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 17,
+        "Count": 2,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 7,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 205,
+        "AvgSpeed": 6
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 1,
+        "Time": 17,
+        "Count": 13,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 3,
+        "Time": 17,
+        "Count": 166,
+        "AvgSpeed": 9
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 1,
+        "AvgSpeed": 7
+    },
+    {
+        "StreetDirectionId": 9,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 6,
+        "Time": 17,
+        "Count": 1,
+        "AvgSpeed": 10
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 241,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 10,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 16,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 96,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 11,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 2,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 30,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 12,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 2,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 242,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 13,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 22,
+        "AvgSpeed": 2
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 2,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 356,
+        "AvgSpeed": 1
+    },
+    {
+        "StreetDirectionId": 14,
+        "LaneDirectionId": 1,
+        "RoadUserTypeId": 5,
+        "Time": 17,
+        "Count": 26,
+        "AvgSpeed": 3
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
+        "RoadUserTypeId": 4,
+        "Time": 17,
+        "Count": 1,
+        "AvgSpeed": 5
+    },
+    {
+        "StreetDirectionId": 15,
+        "LaneDirectionId": 3,
         "RoadUserTypeId": 5,
         "Time": 17,
         "Count": 4,
